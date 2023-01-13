@@ -1,0 +1,1 @@
+import{_ as t,p as c,q as r,s as e,G as a}from"./framework-75bf9f82.js";const s={},o=e("h2",{id:"architecture",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#architecture","aria-hidden":"true"},"#"),a(" Architecture")],-1),i=[o];function n(_,h){return c(),r("div",null,i)}const u=t(s,[["render",n],["__file","architecture.html.vue"]]);export{u as default};

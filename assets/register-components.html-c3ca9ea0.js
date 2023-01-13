@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7c73dacc","path":"/docs/theme/register-components.html","title":"注册组件","lang":"zh-CN","frontmatter":{"title":"注册组件","date":"2022-04-27T00:56:21.000Z"},"headers":[],"git":{},"filePathRelative":"docs/theme/register-components.md"}');export{e as data};

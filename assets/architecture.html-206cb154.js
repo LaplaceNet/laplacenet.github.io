@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-47330a90","path":"/docs/guide/architecture.html","title":"架构","lang":"zh-CN","frontmatter":{"title":"架构","date":"2021-11-05T00:28:46.000Z"},"headers":[{"level":2,"title":"架构","slug":"架构","link":"#架构","children":[]}],"git":{},"filePathRelative":"docs/guide/architecture.md"}');export{e as data};

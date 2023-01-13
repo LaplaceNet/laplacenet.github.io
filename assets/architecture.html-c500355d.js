@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-461de8cc","path":"/en/docs/guide/architecture.html","title":"Architecture","lang":"en-US","frontmatter":{"title":"Architecture","date":"2021-11-05T00:28:46.000Z"},"headers":[{"level":2,"title":"Architecture","slug":"architecture","link":"#architecture","children":[]}],"git":{},"filePathRelative":"en/docs/guide/architecture.md"}');export{e as data};

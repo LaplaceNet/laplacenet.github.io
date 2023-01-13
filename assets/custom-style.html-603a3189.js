@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-18304097","path":"/en/docs/theme/custom-style.html","title":"Custom style","lang":"en-US","frontmatter":{"title":"Custom style","date":"2022-08-06T22:21:01.000Z"},"headers":[],"git":{},"filePathRelative":"en/docs/theme/custom-style.md"}');export{t as data};

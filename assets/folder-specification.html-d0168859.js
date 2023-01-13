@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-225548db","path":"/en/docs/guide/folder-specification.html","title":"Folder Specification","lang":"en-US","frontmatter":{"title":"Folder Specification","date":"2022-08-18T23:24:45.000Z"},"headers":[],"git":{},"filePathRelative":"en/docs/guide/folder-specification.md"}');export{e as data};

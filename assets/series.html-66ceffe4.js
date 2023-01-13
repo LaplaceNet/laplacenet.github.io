@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-191f50e1","path":"/docs/theme/series.html","title":"系列（原左侧边栏）","lang":"zh-CN","frontmatter":{"title":"系列（原左侧边栏）","date":"2021-11-06T23:36:01.000Z"},"headers":[{"level":2,"title":"配置","slug":"配置","link":"#配置","children":[]}],"git":{},"filePathRelative":"docs/theme/series.md"}');export{e as data};

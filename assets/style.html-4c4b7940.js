@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c27509bc","path":"/en/docs/guide/style.html","title":"Style","lang":"en-US","frontmatter":{"title":"Style","date":"2022-08-06T21:44:36.000Z"},"headers":[{"level":2,"title":"Introduce","slug":"introduce","link":"#introduce","children":[]}],"git":{},"filePathRelative":"en/docs/guide/style.md"}');export{e as data};

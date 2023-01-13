@@ -1,0 +1,1 @@
+import{_ as t,p as i,q as a,s as e,G as n}from"./framework-75bf9f82.js";const o={},c=e("h2",{id:"initialization",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#initialization","aria-hidden":"true"},"#"),n(" Initialization")],-1),r=[c];function s(_,d){return i(),a("div",null,r)}const h=t(o,[["render",s],["__file","contribute.html.vue"]]);export{h as default};

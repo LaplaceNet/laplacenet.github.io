@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,s as e,G as s}from"./framework-75bf9f82.js";const c={},n=e("h2",{id:"快速开始",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#快速开始","aria-hidden":"true"},"#"),s(" 快速开始")],-1),o=[n];function _(d,i){return a(),r("div",null,o)}const l=t(c,[["render",_],["__file","getting-started.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,s as e,G as r}from"./framework-75bf9f82.js";const s={},o=e("h2",{id:"架构",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#架构","aria-hidden":"true"},"#"),r(" 架构")],-1),n=[o];function _(d,i){return a(),c("div",null,n)}const l=t(s,[["render",_],["__file","architecture.html.vue"]]);export{l as default};

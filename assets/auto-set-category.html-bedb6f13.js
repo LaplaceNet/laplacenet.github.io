@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-52a4335a","path":"/docs/theme/auto-set-category.html","title":"自动设置分类","lang":"zh-CN","frontmatter":{"title":"自动设置分类","date":"2021-12-12T17:58:24.000Z"},"headers":[{"level":2,"title":"配置","slug":"配置","link":"#配置","children":[]}],"git":{},"filePathRelative":"docs/theme/auto-set-category.md"}');export{t as data};

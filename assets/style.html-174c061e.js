@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-62240a94","path":"/docs/guide/style.html","title":"样式","lang":"zh-CN","frontmatter":{"title":"样式","date":"2022-08-06T21:44:36.000Z"},"headers":[{"level":2,"title":"介绍","slug":"介绍","link":"#介绍","children":[]}],"git":{},"filePathRelative":"docs/guide/style.md"}');export{e as data};

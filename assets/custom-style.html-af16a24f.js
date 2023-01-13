@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a30e5afa","path":"/docs/theme/custom-style.html","title":"自定义样式","lang":"zh-CN","frontmatter":{"title":"自定义样式","date":"2022-08-06T22:14:01.000Z"},"headers":[],"git":{},"filePathRelative":"docs/theme/custom-style.md"}');export{t as data};

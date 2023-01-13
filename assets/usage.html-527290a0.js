@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1d0903d9","path":"/docs/theme/usage.html","title":"安装和使用","lang":"zh-CN","frontmatter":{"title":"安装和使用","date":"2021-11-06T23:32:42.000Z"},"headers":[{"level":2,"title":"安装","slug":"安装","link":"#安装","children":[]},{"level":2,"title":"使用","slug":"使用","link":"#使用","children":[]}],"git":{},"filePathRelative":"docs/theme/usage.md"}');export{e as data};

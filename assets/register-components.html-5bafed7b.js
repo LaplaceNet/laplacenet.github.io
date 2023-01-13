@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2b0e6606","path":"/en/docs/theme/register-components.html","title":"Register components","lang":"en-US","frontmatter":{"title":"Register components","date":"2022-04-27T00:56:21.000Z"},"headers":[],"git":{},"filePathRelative":"en/docs/theme/register-components.md"}');export{e as data};

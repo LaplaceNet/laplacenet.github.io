@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as n,s as o}from"./framework-75bf9f82.js";const c={},r=o("p",null,".NET development framework(NET7+VUE3.x frontend and backend separated).",-1),s=[r];function a(_,d){return t(),n("div",null,s)}const f=e(c,[["render",a],["__file","introduce.html.vue"]]);export{f as default};
